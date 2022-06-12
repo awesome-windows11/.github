@@ -1,1 +1,1 @@
-## [🌎 Awesome Windows11](https://github.com/awesome-windows11/windows11) | [🦊 Awesome Firefox](https://github.com/awesome-windows11/firefox)
+## [🌎 Awesome Windows11](https://github.com/awesome-windows11/windows11) | [<img width=25px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"></img> Awesome Firefox](https://github.com/awesome-windows11/firefox)
