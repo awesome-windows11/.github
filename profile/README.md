@@ -1,4 +1,4 @@
-### [<img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"></img> Awesome Windows11](https://github.com/awesome-windows11/windows11)
-### [<img width=25px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"></img> Awesome Firefox](https://github.com/awesome-windows11/firefox)
-### [<img width=25px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/1200px-Chromium_Logo.svg.png"></img> Awesome Chrome](https://github.com/awesome-windows11/chrome)
-### [🕵️‍♀️ CensorNet](https://github.com/awesome-windows11/CensorNet)
+<h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"></img> <a href="https://github.com/awesome-windows11/windows11">Awesome Windows11</a> </h3>
+<h3 align="center"> <img width=25px src="https://i.imgur.com/GxIfhNo.png"></img> <a href="https://github.com/awesome-windows11/firefox">Awesome Firefox</a> </h3>
+<h3 align="center"> <img width=25px src="https://i.imgur.com/C3cSzna.png"></img> <a href="https://github.com/awesome-windows11/chrome">Awesome Chrome</a> </h3>
+<h3 align="center"> <a href="https://github.com/awesome-windows11/CensorNet">🕵️‍♀️ CensorNet</a> </h3>
